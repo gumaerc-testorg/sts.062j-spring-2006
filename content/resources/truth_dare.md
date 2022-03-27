@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c6abcd5f-e7a4-633e-9986-7a2f0d826b65
 resourcetype: Document
 title: truth_dare.pdf
 uid: f91d3eb8-6841-6763-ec80-6f0fe73bc4d4

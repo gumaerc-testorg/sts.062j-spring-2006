@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c6abcd5f-e7a4-633e-9986-7a2f0d826b65
 resourcetype: Document
 title: drugs.pdf
 uid: 09cf7e7b-2e67-30e4-6128-ef53d31b356c

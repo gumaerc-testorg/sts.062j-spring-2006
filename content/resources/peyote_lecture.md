@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5f9939db-bc79-9ba1-b817-3d4a4f247b7a
 resourcetype: Document
 title: peyote_lecture.pdf
 uid: fcbe1626-223b-f64f-f24b-b5b697c5449c

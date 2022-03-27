@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5f9939db-bc79-9ba1-b817-3d4a4f247b7a
 resourcetype: Document
 title: alcohol_us.pdf
 uid: cef3986f-b921-fe88-c5e7-8d084b986eaa

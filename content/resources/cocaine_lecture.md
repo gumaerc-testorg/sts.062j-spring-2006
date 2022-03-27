@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5f9939db-bc79-9ba1-b817-3d4a4f247b7a
 resourcetype: Document
 title: cocaine_lecture.pdf
 uid: bb78fc7a-692b-e6f2-3883-2d97f16cf74c

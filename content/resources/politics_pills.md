@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c6abcd5f-e7a4-633e-9986-7a2f0d826b65
 resourcetype: Document
 title: politics_pills.pdf
 uid: 9621126f-2202-0752-8827-66103ce9dedf

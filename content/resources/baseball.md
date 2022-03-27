@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c6abcd5f-e7a4-633e-9986-7a2f0d826b65
 resourcetype: Document
 title: baseball.pdf
 uid: 2290e2f6-71dd-5f61-5e7f-0d2cf8a687c9

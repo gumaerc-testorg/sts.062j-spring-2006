@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5f9939db-bc79-9ba1-b817-3d4a4f247b7a
 resourcetype: Document
 title: war_on_drugs.pdf
 uid: 8a6ce590-30af-c6bc-b97e-7ce576b2f7c7

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c6abcd5f-e7a4-633e-9986-7a2f0d826b65
 resourcetype: Document
 title: analucia_berry_sts062J.pdf
 uid: 0db319ef-0944-8dce-77ac-eea90a1e8eb3
