@@ -11,6 +11,7 @@ image_metadata:
   image-alt: The U.S. Drug Enforcement Administration sets seized cocaine ablaze.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: sts-062js06-th.jpg
 uid: 3bbe0758-aff6-32b6-fe63-ca714180a064
