@@ -7,6 +7,7 @@ file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/af4d6047dc17c5e74
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: exchnge_students.pdf
 uid: af4d6047-dc17-c5e7-474c-80337daffc26
 ---
 This resource is the final paper submited by the students explaining about comparison of exchange students' views of the drinking culture of MIT and Cambridge.
-

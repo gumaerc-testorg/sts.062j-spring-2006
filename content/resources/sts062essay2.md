@@ -5,6 +5,7 @@ file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/eef477072908784d7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

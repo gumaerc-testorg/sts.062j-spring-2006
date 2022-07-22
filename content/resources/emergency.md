@@ -6,6 +6,7 @@ file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/e51ac1929e188e002
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: emergency.pdf
 uid: e51ac192-9e18-8e00-2331-fad00e336e1a
 ---
 This resource is the final Paper submited by the students explaining about emergency contraception and refusal clauses: a threat to Women.
-

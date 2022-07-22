@@ -6,6 +6,7 @@ file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/f91d3eb868416763e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: truth_dare.pdf
 uid: f91d3eb8-6841-6763-ec80-6f0fe73bc4d4
 ---
 This resource is the final paper submited by the students explaining about Truth or DARE?
-
