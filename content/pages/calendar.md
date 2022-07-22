@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The table below provides information about the course's lecture (L) and
+  quiz (Q) sessions.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 5efff7af-6c10-6073-94a1-92891cefe73c
 ---
