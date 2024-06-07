@@ -4,6 +4,7 @@ description: This exam file includes the quizzes related to cultural capital, ma
   American society, in Search of respect, who was Pablo Escobar, major strategic keystones
   of Switzerland's, harmakos, war on drugs and fatal flaws in the war on drugs.
 file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/a3674daada84930fa4b9846fd422a6cb_quiz2.pdf
+file_size: 29528
 file_type: application/pdf
 learning_resource_types:
 - Exams

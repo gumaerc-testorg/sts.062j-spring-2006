@@ -5,6 +5,7 @@ description: 'This exam file includes the quizzes related to neo-empiricist cons
   confessional, recovery, mystical, emergent capitalism, and importance of set and
   setting for drug use.'
 file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/2cdbca5de076db24210dce71bec5a0ff_quiz1.pdf
+file_size: 35765
 file_type: application/pdf
 learning_resource_types:
 - Exams
