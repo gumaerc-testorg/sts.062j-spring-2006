@@ -33,7 +33,7 @@ Inciardi, James, and Karen McElrath, eds. _The American Drug Scene: An Anthology
 
 Goode, Erich. _Drugs in American Society_. 6th ed. New York, NY: McGraw-Hill, 2004. ISBN: 9780072874983.
 
-{{% resource_link "6bf9027f-0e1a-4285-8dd4-23febead9d03" "Go Ask Alice" %}}.
+[Go Ask Alice](http://www.sparknotes.com/lit/goaskalice/).
 
 {{< anchor "Readings" >}}{{< /anchor >}}Readings by Session
 -----------------------------------------------------------
@@ -256,7 +256,7 @@ The War on Drugs
 {{< tdopen >}}
 
 
-{{% resource_link "b5edfe99-2479-4074-91b5-f4d101492889" "Office of National Drug Control Policy" %}}
+[Office of National Drug Control Policy](http://www.whitehousedrugpolicy.gov/index.html)
 
 Swiss Federal Office of Public Health. _Swiss Drugs Policy_ (undated). (skim.)
 

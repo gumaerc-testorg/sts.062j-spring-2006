@@ -4,6 +4,7 @@ description: 'This resource includes the topics: Lender and Martin: "Neorepublic
   drugs & feared immigrants, substory about alcohol & capitalism, protestant temperance
   movement v Catholicism and alcohol & emergence of new social identities.'
 file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/cef3986fb921fe88c5e78d084b986eaa_alcohol_us.pdf
+file_size: 30387
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
