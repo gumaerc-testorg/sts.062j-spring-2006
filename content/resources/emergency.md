@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource is the final Paper submited by the students explaining
   about emergency contraception and refusal clauses: a threat to Women.'
 file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/e51ac1929e188e002331fad00e336e1a_emergency.pdf
+file_size: 58209
 file_type: application/pdf
 learning_resource_types:
 - Assignments

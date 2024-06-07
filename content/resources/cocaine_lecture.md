@@ -6,6 +6,7 @@ description: This file discusses about recreational or medicinal aspects of coca
   of cocaine with Harrison Narcotic Act, and how cocaine transformed economies of
   countries. And in the last it discusses about the eradication of usage of cocaine.
 file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/bb78fc7a692be6f238832d97f16cf74c_cocaine_lecture.pdf
+file_size: 43744
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
