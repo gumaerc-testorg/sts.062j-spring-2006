@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the final paper submited by the students explaining
   why in baseball is using steroids considered cheating?
-file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/2290e2f671dd5f615e7f0d2cf8a687c9_baseball.pdf
+file: /ol-ocw-studio-app/courses/sts-062j-drugs-politics-and-culture-spring-2006/2290e2f671dd5f615e7f0d2cf8a687c9_baseball.pdf
 file_size: 40798
 file_type: application/pdf
 learning_resource_types:
