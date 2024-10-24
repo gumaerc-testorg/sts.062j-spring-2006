@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the final paper submited by the students explaining
   about Truth or DARE?
-file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/f91d3eb868416763ec806f0fe73bc4d4_truth_dare.pdf
+file: /ol-ocw-studio-app/courses/sts-062j-drugs-politics-and-culture-spring-2006/f91d3eb868416763ec806f0fe73bc4d4_truth_dare.pdf
 file_size: 126523
 file_type: application/pdf
 learning_resource_types:
