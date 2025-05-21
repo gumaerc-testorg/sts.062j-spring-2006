@@ -2,7 +2,7 @@
 content_type: resource
 description: This lecture notes discusses about early history of LSD, other hallucinogens,
   LSD?s use in CIA mind-control experiments, and emergence of counterculture.
-file: /ol-ocw-studio-app/courses/sts-062j-drugs-politics-and-culture-spring-2006/cd574160be33a0b546cbf015d8eb8226_lsd_lecture.pdf
+file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/cd574160be33a0b546cbf015d8eb8226_lsd_lecture.pdf
 file_size: 47426
 file_type: application/pdf
 learning_resource_types:
