@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/sts-062j-drugs-politics-and-culture-spring-2006/eef477072908784d7efeb8819889ef8d_STS062Essay2.pdf
+file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/eef477072908784d7efeb8819889ef8d_STS062Essay2.pdf
 file_size: 50632
 file_type: application/pdf
 learning_resource_types:
