@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/sts-062j-drugs-politics-and-culture-spring-2006/0db319ef09448dce77aceea90a1e8eb3_analucia_berry_sts062J.pdf
+file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/0db319ef09448dce77aceea90a1e8eb3_analucia_berry_sts062J.pdf
 file_size: 75893
 file_type: application/pdf
 learning_resource_types:
