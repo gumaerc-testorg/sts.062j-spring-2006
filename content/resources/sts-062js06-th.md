@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/3bbe0758aff632b6fe63ca714180a064_sts-062js06-th.jpg
+file: /ol-ocw-studio-app/courses/sts-062j-drugs-politics-and-culture-spring-2006/3bbe0758aff632b6fe63ca714180a064_sts-062js06-th.jpg
 file_size: 10959
 file_type: image/jpeg
 image_metadata:
