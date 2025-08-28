@@ -2,7 +2,7 @@
 content_type: resource
 description: This lecture notes discusses about the pill, viagra, brief word on prozac,
   and general questions.
-file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/6993e9bf41214526ef2ceab71779134b_proza_pil_viagra.pdf
+file: /ol-ocw-studio-app/courses/sts-062j-drugs-politics-and-culture-spring-2006/6993e9bf41214526ef2ceab71779134b_proza_pil_viagra.pdf
 file_size: 98336
 file_type: application/pdf
 learning_resource_types:

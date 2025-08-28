@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the final paper submited by the students explainings
   how to improve the national drug control strategy to win the war on drugs?
-file: /courses/sts-062j-drugs-politics-and-culture-spring-2006/09cf7e7b2e6730e46128ef53d31b356c_drugs.pdf
+file: /ol-ocw-studio-app/courses/sts-062j-drugs-politics-and-culture-spring-2006/09cf7e7b2e6730e46128ef53d31b356c_drugs.pdf
 file_size: 136772
 file_type: application/pdf
 learning_resource_types:
