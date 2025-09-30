@@ -7,7 +7,8 @@ file_type: image/jpeg
 image_metadata:
   caption: Cocaine seized aboard The Macel ship in December 2001 totaled 9,291 kilograms.
     The U.S. Drug Enforcement Administration set the cocaine ablaze to ensure the
-    drug never reached the street. (Image courtesy of the [Drug Enforcement Administration](http://www.dea.gov/).)
+    drug never reached the street. (Image courtesy of the {{% resource_link "988ff1ca-abee-4331-b69f-f18abdc817f8"
+    "Drug Enforcement Administration" %}}.)
   credit: ''
   image-alt: The U.S. Drug Enforcement Administration sets seized cocaine ablaze.
 learning_resource_types: []
